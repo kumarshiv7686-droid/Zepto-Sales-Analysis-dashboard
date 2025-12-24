@@ -21,4 +21,4 @@ Supported profit optimization by analyzing the impact of discounts on revenue.<b
 Enabled data-driven decisions through easy-to-understand visual dashboards.<br>
 Reduced manual reporting effort by providing automated KPI tracking.<br>
 
-https://github.com/kumarshiv7686-droid/Zepto-Sales-Analysis-dashboard/blob/main/image.png
+Dashboard Preview: https://github.com/kumarshiv7686-droid/Zepto-Sales-Analysis-dashboard/blob/main/image.png
